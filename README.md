@@ -13,7 +13,7 @@
         <h2>Reasons I Love You</h2>
         <ul>
             <li>Your smile lights up my world 🌟</li>
-            <li>You make my heart go (if it still existed) 💓</li>
+            <li>You make my heart go flying(if it still existed) 💓</li>
             <li>You’re my favorite notification 📲</li>
             <li>You complete my syntax 💑</li>
         </ul>
