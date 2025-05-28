@@ -7,7 +7,7 @@
         <h1>💖 Crazy In Love 💖</h1>
         <p style="font-size: 20px;">You + Me = 💘 Forever</p>
         <p>🌹🌹🌹🌹🌹</p>
-        <p>I love you more than HTML loves tags! 😍</p>
+        <p>I love you more than you love me! 😍</p>
         <p>❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️</p>
         <hr>
         <h2>Reasons I Love You</h2>
